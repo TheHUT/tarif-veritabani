@@ -51,7 +51,7 @@
       "Kalori": "420 kcal",
       "Protein": "35g"
     }
-    ,
+  },
   {
     "id": "101",
     "title": "Peynirli Poğaça",
@@ -436,6 +436,5 @@
     ],
     "instructions": ["Kıymayı baharatlarla kavurun.", "Kabukların içine doldurun.", "Üzerine salsa sos ekleyin."],
     "nutrition": {"Kalori": "250 kcal"}
-  }
   }
 ]
