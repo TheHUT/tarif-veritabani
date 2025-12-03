@@ -1,0 +1,55 @@
+[
+  {
+    "id": "1",
+    "title": "Mercimek Çorbası",
+    "description": "Sıcacık, şifalı ve geleneksel lezzetimiz.",
+    "image": "https://cdn.yemek.com/mnresize/940/940/uploads/2014/06/mercimek-corbasi-yemekcom.jpg",
+    "time": "35 dk",
+    "difficulty": "Kolay",
+    "servings": "4 Kişilik",
+    "baseServings": 4,
+    "category": "Çorbalar",
+    "isPopular": true,
+    "ingredients": [
+      { "name": "Kırmızı Mercimek", "amount": "1 sb", "baseQuantity": 1, "unit": "sb" },
+      { "name": "Soğan", "amount": "1 adet", "baseQuantity": 1, "unit": "adet" },
+      { "name": "Su", "amount": "1 lt", "baseQuantity": 1, "unit": "lt" }
+    ],
+    "instructions": [
+      "Soğanları küp küp doğrayın ve yağda kavurun.",
+      "Yıkanmış mercimekleri ekleyip 2 dakika daha kavurun.",
+      "Suyu ekleyin ve kapağını kapatıp 30 dakika pişirin.",
+      "Piştikten sonra blenderdan geçirin ve servis yapın."
+    ],
+    "nutrition": {
+      "Kalori": "180 kcal",
+      "Protein": "12g"
+    }
+  },
+  {
+    "id": "2",
+    "title": "Fırında Tavuk",
+    "description": "Nar gibi kızarmış, özel soslu tavuk.",
+    "image": "https://cdn.yemek.com/mnresize/940/940/uploads/2016/09/firinda-butun-tavuk-asama-11.jpg",
+    "time": "80 dk",
+    "difficulty": "Orta",
+    "servings": "6 Kişilik",
+    "baseServings": 6,
+    "category": "Ana Yemek",
+    "isPopular": true,
+    "ingredients": [
+      { "name": "Bütün Tavuk", "amount": "1 adet", "baseQuantity": 1, "unit": "adet" },
+      { "name": "Patates", "amount": "3 adet", "baseQuantity": 3, "unit": "adet" }
+    ],
+    "instructions": [
+      "Tavuğu güzelce yıkayın ve soslayın.",
+      "Patatesleri elma dilim doğrayıp tepsiye dizin.",
+      "Tavuğu tepsinin ortasına koyun.",
+      "Önceden ısıtılmış 200 derece fırında 80 dakika pişirin."
+    ],
+    "nutrition": {
+      "Kalori": "420 kcal",
+      "Protein": "35g"
+    }
+  }
+]
