@@ -51,5 +51,391 @@
       "Kalori": "420 kcal",
       "Protein": "35g"
     }
+    ,
+  {
+    "id": "101",
+    "title": "Peynirli Poğaça",
+    "description": "Kahvaltıların vazgeçilmezi, kıyır kıyır poğaça.",
+    "image": "https://images.unsplash.com/photo-1621251336066-5c5a47e44923?q=80&w=600",
+    "time": "45 dk",
+    "difficulty": "Orta",
+    "servings": "12 Adet",
+    "baseServings": 12,
+    "category": "Hamur İşi",
+    "isPopular": true,
+    "ingredients": [
+      {"name": "Un", "amount": "4 sb", "baseQuantity": 4, "unit": "sb"},
+      {"name": "Yoğurt", "amount": "1 sb", "baseQuantity": 1, "unit": "sb"},
+      {"name": "Sıvı Yağ", "amount": "1 çb", "baseQuantity": 1, "unit": "çb"},
+      {"name": "Kabartma Tozu", "amount": "1 paket", "baseQuantity": 1, "unit": "pk"},
+      {"name": "Beyaz Peynir", "amount": "200 gr", "baseQuantity": 200, "unit": "gr"}
+    ],
+    "instructions": ["Sıvı malzemeleri karıştırın.", "Unu ve kabartma tozunu ekleyip yoğurun.", "Hamurdan parçalar koparıp içine peynir koyun.", "180 derece fırında 25 dakika pişirin."],
+    "nutrition": {"Kalori": "250 kcal"}
+  },
+  {
+    "id": "102",
+    "title": "Ev Yapımı Simit",
+    "description": "Sokak lezzetini evinize taşıyın.",
+    "image": "https://images.unsplash.com/photo-1623157580550-911e257eb938?q=80&w=600",
+    "time": "60 dk",
+    "difficulty": "Zor",
+    "servings": "8 Adet",
+    "baseServings": 8,
+    "category": "Hamur İşi",
+    "isPopular": false,
+    "ingredients": [
+      {"name": "Un", "amount": "500 gr", "baseQuantity": 500, "unit": "gr"},
+      {"name": "Maya", "amount": "1 tatlı kaşığı", "baseQuantity": 1, "unit": "tk"},
+      {"name": "Pekmez", "amount": "1 çb", "baseQuantity": 1, "unit": "çb"},
+      {"name": "Susam", "amount": "1 kase", "baseQuantity": 1, "unit": "kase"}
+    ],
+    "instructions": ["Hamuru mayalayın.", "Halkalar oluşturup pekmezli suya batırın.", "Susama bulayıp 200 derecede pişirin."],
+    "nutrition": {"Kalori": "320 kcal"}
+  },
+  {
+    "id": "103",
+    "title": "Sigara Böreği",
+    "description": "Çıtır çıtır pratik lezzet.",
+    "image": "https://images.unsplash.com/photo-1605333202927-142279140922?q=80&w=600",
+    "time": "20 dk",
+    "difficulty": "Kolay",
+    "servings": "4 Kişilik",
+    "baseServings": 4,
+    "category": "Hamur İşi",
+    "isPopular": true,
+    "ingredients": [
+      {"name": "Yufka", "amount": "3 adet", "baseQuantity": 3, "unit": "adet"},
+      {"name": "Lor Peyniri", "amount": "200 gr", "baseQuantity": 200, "unit": "gr"},
+      {"name": "Maydanoz", "amount": "1 tutam", "baseQuantity": 1, "unit": "tutam"}
+    ],
+    "instructions": ["Yufkaları üçgen kesin.", "İç harcı koyup sarın.", "Kızgın yağda kızartın."],
+    "nutrition": {"Kalori": "180 kcal"}
+  },
+  {
+    "id": "104",
+    "title": "Kıymalı Pide",
+    "description": "Ev usulü enfes pide.",
+    "image": "https://images.unsplash.com/photo-1626809809977-f2730a0d4239?q=80&w=600",
+    "time": "90 dk",
+    "difficulty": "Zor",
+    "servings": "4 Adet",
+    "baseServings": 4,
+    "category": "Hamur İşi",
+    "isPopular": true,
+    "ingredients": [
+      {"name": "Un", "amount": "4 sb", "baseQuantity": 4, "unit": "sb"},
+      {"name": "Kıyma", "amount": "300 gr", "baseQuantity": 300, "unit": "gr"},
+      {"name": "Domates", "amount": "2 adet", "baseQuantity": 2, "unit": "adet"}
+    ],
+    "instructions": ["Hamuru hazırlayıp mayalandırın.", "İç harcı hazırlayın.", "Hamuru açıp harcı koyun ve fırınlayın."],
+    "nutrition": {"Kalori": "450 kcal"}
+  },
+  {
+    "id": "201",
+    "title": "Fırında Somon",
+    "description": "Sağlıklı ve lezzetli omega-3 kaynağı.",
+    "image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?q=80&w=600",
+    "time": "30 dk",
+    "difficulty": "Kolay",
+    "servings": "2 Kişilik",
+    "baseServings": 2,
+    "category": "Deniz Ürünleri",
+    "isPopular": true,
+    "ingredients": [
+      {"name": "Somon Fileto", "amount": "2 adet", "baseQuantity": 2, "unit": "adet"},
+      {"name": "Limon", "amount": "1 adet", "baseQuantity": 1, "unit": "adet"},
+      {"name": "Zeytinyağı", "amount": "2 yk", "baseQuantity": 2, "unit": "yk"}
+    ],
+    "instructions": ["Somonları yağlayıp baharatlayın.", "Limon dilimleri ile tepsiye dizin.", "200 derece fırında 20 dakika pişirin."],
+    "nutrition": {"Kalori": "350 kcal"}
+  },
+  {
+    "id": "202",
+    "title": "Hamsi Tava",
+    "description": "Karadeniz'in incisi.",
+    "image": "https://images.unsplash.com/photo-1626202279093-348f95c4709d?q=80&w=600",
+    "time": "40 dk",
+    "difficulty": "Orta",
+    "servings": "4 Kişilik",
+    "baseServings": 4,
+    "category": "Deniz Ürünleri",
+    "isPopular": true,
+    "ingredients": [
+      {"name": "Hamsi", "amount": "1 kg", "baseQuantity": 1, "unit": "kg"},
+      {"name": "Mısır Unu", "amount": "1 kase", "baseQuantity": 1, "unit": "kase"},
+      {"name": "Sıvı Yağ", "amount": "1 çb", "baseQuantity": 1, "unit": "çb"}
+    ],
+    "instructions": ["Hamsileri temizleyin.", "Mısır ununa bulayıp tavaya dizin.", "Önlü arkalı kızartın."],
+    "nutrition": {"Kalori": "400 kcal"}
+  },
+  {
+    "id": "203",
+    "title": "Karides Güveç",
+    "description": "Tereyağlı ve sarımsaklı özel lezzet.",
+    "image": "https://images.unsplash.com/photo-1559742811-822873691df8?q=80&w=600",
+    "time": "25 dk",
+    "difficulty": "Orta",
+    "servings": "2 Kişilik",
+    "baseServings": 2,
+    "category": "Deniz Ürünleri",
+    "isPopular": false,
+    "ingredients": [
+      {"name": "Karides", "amount": "300 gr", "baseQuantity": 300, "unit": "gr"},
+      {"name": "Tereyağı", "amount": "2 yk", "baseQuantity": 2, "unit": "yk"},
+      {"name": "Sarımsak", "amount": "3 diş", "baseQuantity": 3, "unit": "diş"}
+    ],
+    "instructions": ["Tereyağını eritin.", "Karidesleri ve sarımsağı ekleyip soteleyin.", "Güveç kaplarına koyup fırınlayın."],
+    "nutrition": {"Kalori": "220 kcal"}
+  },
+  {
+    "id": "204",
+    "title": "Balık Çorbası",
+    "description": "Şifa deposu lezzetli çorba.",
+    "image": "https://images.unsplash.com/photo-1594970038890-4ba626cb3b90?q=80&w=600",
+    "time": "45 dk",
+    "difficulty": "Orta",
+    "servings": "4 Kişilik",
+    "baseServings": 4,
+    "category": "Deniz Ürünleri",
+    "isPopular": false,
+    "ingredients": [
+      {"name": "Balık (Levrek)", "amount": "1 adet", "baseQuantity": 1, "unit": "adet"},
+      {"name": "Havuç", "amount": "1 adet", "baseQuantity": 1, "unit": "adet"},
+      {"name": "Patates", "amount": "1 adet", "baseQuantity": 1, "unit": "adet"}
+    ],
+    "instructions": ["Balığı haşlayıp didikleyin.", "Sebzeleri küp doğrayıp haşlayın.", "Hepsini birleştirip terbiyeleyin."],
+    "nutrition": {"Kalori": "150 kcal"}
+  },
+  {
+    "id": "301",
+    "title": "Ev Yapımı Limonata",
+    "description": "Yaz günlerinin ferahlatıcısı.",
+    "image": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?q=80&w=600",
+    "time": "15 dk",
+    "difficulty": "Kolay",
+    "servings": "1 Sürahi",
+    "baseServings": 6,
+    "category": "İçecekler",
+    "isPopular": true,
+    "ingredients": [
+      {"name": "Limon", "amount": "5 adet", "baseQuantity": 5, "unit": "adet"},
+      {"name": "Şeker", "amount": "1 sb", "baseQuantity": 1, "unit": "sb"},
+      {"name": "Nane", "amount": "1 tutam", "baseQuantity": 1, "unit": "tutam"}
+    ],
+    "instructions": ["Limonların kabuğunu rendeleyip şekerle ovun.", "Suyunu sıkıp ekleyin.", "Soğuk su ve nane ekleyip karıştırın."],
+    "nutrition": {"Kalori": "120 kcal"}
+  },
+  {
+    "id": "302",
+    "title": "Çilekli Smoothie",
+    "description": "Vitamin deposu hızlı kahvaltı.",
+    "image": "https://images.unsplash.com/photo-1553530666-ba11a90696f9?q=80&w=600",
+    "time": "5 dk",
+    "difficulty": "Kolay",
+    "servings": "1 Kişilik",
+    "baseServings": 1,
+    "category": "İçecekler",
+    "isPopular": true,
+    "ingredients": [
+      {"name": "Çilek", "amount": "10 adet", "baseQuantity": 10, "unit": "adet"},
+      {"name": "Yoğurt", "amount": "1 kase", "baseQuantity": 1, "unit": "kase"},
+      {"name": "Bal", "amount": "1 tk", "baseQuantity": 1, "unit": "tk"}
+    ],
+    "instructions": ["Tüm malzemeleri blendera atın.", "Pürüzsüz olana kadar çekin."],
+    "nutrition": {"Kalori": "180 kcal"}
+  },
+  {
+    "id": "303",
+    "title": "Türk Kahvesi",
+    "description": "40 yıl hatrı olan klasik.",
+    "image": "https://images.unsplash.com/photo-1599579047971-125026417745?q=80&w=600",
+    "time": "5 dk",
+    "difficulty": "Kolay",
+    "servings": "1 Kişilik",
+    "baseServings": 1,
+    "category": "İçecekler",
+    "isPopular": true,
+    "ingredients": [
+      {"name": "Türk Kahvesi", "amount": "1 tk", "baseQuantity": 1, "unit": "tk"},
+      {"name": "Su", "amount": "1 fincan", "baseQuantity": 1, "unit": "fincan"}
+    ],
+    "instructions": ["Kahve ve suyu cezveye koyun.", "Kısık ateşte karıştırmadan pişirin.", "Köpürünce fincana alın."],
+    "nutrition": {"Kalori": "5 kcal"}
+  },
+  {
+    "id": "304",
+    "title": "Bol Köpüklü Ayran",
+    "description": "Yemeklerin en iyi eşlikçisi.",
+    "image": "https://images.unsplash.com/photo-1626132712437-04870c598007?q=80&w=600",
+    "time": "2 dk",
+    "difficulty": "Kolay",
+    "servings": "2 Kişilik",
+    "baseServings": 2,
+    "category": "İçecekler",
+    "isPopular": false,
+    "ingredients": [
+      {"name": "Yoğurt", "amount": "2 sb", "baseQuantity": 2, "unit": "sb"},
+      {"name": "Su", "amount": "1 sb", "baseQuantity": 1, "unit": "sb"},
+      {"name": "Tuz", "amount": "1 çk", "baseQuantity": 1, "unit": "çk"},
+      {"name": "Soda", "amount": "1 şişe", "baseQuantity": 1, "unit": "şişe"}
+    ],
+    "instructions": ["Yoğurt, su ve tuzu çırpın.", "En son sodayı ekleyip köpürtün."],
+    "nutrition": {"Kalori": "80 kcal"}
+  },
+  {
+    "id": "401",
+    "title": "Mücver",
+    "description": "Kabak sevmeyene kabak yedirir.",
+    "image": "https://images.unsplash.com/photo-1619881589316-56c7f9e6b587?q=80&w=600",
+    "time": "25 dk",
+    "difficulty": "Orta",
+    "servings": "4 Kişilik",
+    "baseServings": 4,
+    "category": "Atıştırmalık",
+    "isPopular": true,
+    "ingredients": [
+      {"name": "Kabak", "amount": "3 adet", "baseQuantity": 3, "unit": "adet"},
+      {"name": "Yumurta", "amount": "2 adet", "baseQuantity": 2, "unit": "adet"},
+      {"name": "Un", "amount": "3 yk", "baseQuantity": 3, "unit": "yk"},
+      {"name": "Dereotu", "amount": "1 demet", "baseQuantity": 1, "unit": "demet"}
+    ],
+    "instructions": ["Kabakları rendeleyip suyunu sıkın.", "Diğer malzemelerle karıştırın.", "Kaşıkla döküp kızartın."],
+    "nutrition": {"Kalori": "140 kcal"}
+  },
+  {
+    "id": "402",
+    "title": "Kısır",
+    "description": "Altın günlerinin vazgeçilmezi.",
+    "image": "https://images.unsplash.com/photo-1598511726623-d227c2dc2824?q=80&w=600",
+    "time": "20 dk",
+    "difficulty": "Kolay",
+    "servings": "6 Kişilik",
+    "baseServings": 6,
+    "category": "Atıştırmalık",
+    "isPopular": true,
+    "ingredients": [
+      {"name": "İnce Bulgur", "amount": "2 sb", "baseQuantity": 2, "unit": "sb"},
+      {"name": "Sıcak Su", "amount": "2 sb", "baseQuantity": 2, "unit": "sb"},
+      {"name": "Salça", "amount": "2 yk", "baseQuantity": 2, "unit": "yk"},
+      {"name": "Yeşillik", "amount": "1 demet", "baseQuantity": 1, "unit": "demet"}
+    ],
+    "instructions": ["Bulguru ıslatıp şişirin.", "Salça ve baharatları ekleyip yoğurun.", "Doğranmış yeşillikleri ekleyin."],
+    "nutrition": {"Kalori": "220 kcal"}
+  },
+  {
+    "id": "403",
+    "title": "Mercimek Köftesi",
+    "description": "Tam kıvamında, dağılmayan tarif.",
+    "image": "https://images.unsplash.com/photo-1623428187969-5da2dcea5ebf?q=80&w=600",
+    "time": "40 dk",
+    "difficulty": "Orta",
+    "servings": "6 Kişilik",
+    "baseServings": 6,
+    "category": "Atıştırmalık",
+    "isPopular": true,
+    "ingredients": [
+      {"name": "Kırmızı Mercimek", "amount": "1 sb", "baseQuantity": 1, "unit": "sb"},
+      {"name": "İnce Bulgur", "amount": "1.5 sb", "baseQuantity": 1.5, "unit": "sb"},
+      {"name": "Soğan", "amount": "1 adet", "baseQuantity": 1, "unit": "adet"}
+    ],
+    "instructions": ["Mercimeği haşlayın, bulguru ekleyip kapatın.", "Soğanı kavurup salçayla ekleyin.", "Yoğurup şekil verin."],
+    "nutrition": {"Kalori": "190 kcal"}
+  },
+  {
+    "id": "404",
+    "title": "Patates Salatası",
+    "description": "Klasik ve doyurucu.",
+    "image": "https://images.unsplash.com/photo-1594636907409-773f6b492672?q=80&w=600",
+    "time": "30 dk",
+    "difficulty": "Kolay",
+    "servings": "4 Kişilik",
+    "baseServings": 4,
+    "category": "Atıştırmalık",
+    "isPopular": false,
+    "ingredients": [
+      {"name": "Patates", "amount": "4 adet", "baseQuantity": 4, "unit": "adet"},
+      {"name": "Taze Soğan", "amount": "4 dal", "baseQuantity": 4, "unit": "dal"},
+      {"name": "Limon", "amount": "1 adet", "baseQuantity": 1, "unit": "adet"}
+    ],
+    "instructions": ["Patatesleri haşlayıp küp doğrayın.", "Yeşillikleri ve sosu ekleyip karıştırın."],
+    "nutrition": {"Kalori": "160 kcal"}
+  },
+  {
+    "id": "501",
+    "title": "İtalyan Pizza",
+    "description": "İnce hamurlu gerçek İtalyan lezzeti.",
+    "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?q=80&w=600",
+    "time": "60 dk",
+    "difficulty": "Zor",
+    "servings": "2 Adet",
+    "baseServings": 2,
+    "category": "Dünya Mutfağı",
+    "isPopular": true,
+    "ingredients": [
+      {"name": "Un", "amount": "3 sb", "baseQuantity": 3, "unit": "sb"},
+      {"name": "Mozzarella", "amount": "200 gr", "baseQuantity": 200, "unit": "gr"},
+      {"name": "Domates Sosu", "amount": "1 kase", "baseQuantity": 1, "unit": "kase"}
+    ],
+    "instructions": ["Hamuru açın.", "Sos ve peyniri ekleyin.", "Çok sıcak fırında 10 dakika pişirin."],
+    "nutrition": {"Kalori": "500 kcal"}
+  },
+  {
+    "id": "502",
+    "title": "Ev Yapımı Hamburger",
+    "description": "Dışarıdakileri aratmayan lezzet.",
+    "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?q=80&w=600",
+    "time": "30 dk",
+    "difficulty": "Orta",
+    "servings": "2 Adet",
+    "baseServings": 2,
+    "category": "Dünya Mutfağı",
+    "isPopular": true,
+    "ingredients": [
+      {"name": "Kıyma", "amount": "300 gr", "baseQuantity": 300, "unit": "gr"},
+      {"name": "Hamburger Ekmeği", "amount": "2 adet", "baseQuantity": 2, "unit": "adet"},
+      {"name": "Cheddar", "amount": "2 dilim", "baseQuantity": 2, "unit": "dilim"}
+    ],
+    "instructions": ["Köfteleri hazırlayıp pişirin.", "Ekmekleri ısıtın.", "Malzemeleri birleştirin."],
+    "nutrition": {"Kalori": "600 kcal"}
+  },
+  {
+    "id": "503",
+    "title": "Falafel",
+    "description": "Nohutun en lezzetli hali.",
+    "image": "https://images.unsplash.com/photo-1593001872095-7d5b3868d1d3?q=80&w=600",
+    "time": "40 dk",
+    "difficulty": "Orta",
+    "servings": "4 Kişilik",
+    "baseServings": 4,
+    "category": "Dünya Mutfağı",
+    "isPopular": false,
+    "ingredients": [
+      {"name": "Nohut", "amount": "2 sb", "baseQuantity": 2, "unit": "sb"},
+      {"name": "Maydanoz", "amount": "1 demet", "baseQuantity": 1, "unit": "demet"},
+      {"name": "Sarımsak", "amount": "3 diş", "baseQuantity": 3, "unit": "diş"}
+    ],
+    "instructions": ["Islanmış nohutları ve yeşillikleri robottan geçirin.", "Top yapıp kızartın."],
+    "nutrition": {"Kalori": "330 kcal"}
+  },
+  {
+    "id": "504",
+    "title": "Taco",
+    "description": "Meksika mutfağının yıldızı.",
+    "image": "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?q=80&w=600",
+    "time": "30 dk",
+    "difficulty": "Orta",
+    "servings": "6 Adet",
+    "baseServings": 6,
+    "category": "Dünya Mutfağı",
+    "isPopular": true,
+    "ingredients": [
+      {"name": "Taco Kabuğu", "amount": "6 adet", "baseQuantity": 6, "unit": "adet"},
+      {"name": "Kıyma", "amount": "250 gr", "baseQuantity": 250, "unit": "gr"},
+      {"name": "Meksika Fasulyesi", "amount": "1 kase", "baseQuantity": 1, "unit": "kase"}
+    ],
+    "instructions": ["Kıymayı baharatlarla kavurun.", "Kabukların içine doldurun.", "Üzerine salsa sos ekleyin."],
+    "nutrition": {"Kalori": "250 kcal"}
+  }
   }
 ]
